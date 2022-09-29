@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("做了UI")
+        
+        print("做了UI2")
     }
 
 
